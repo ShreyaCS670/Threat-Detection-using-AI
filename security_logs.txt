@@ -1,0 +1,2 @@
+2025-12-19 19:33:19.327937 - Ransomware detected and quarantined
+2025-12-19 19:35:20.080798 - Ransomware detected and quarantined
